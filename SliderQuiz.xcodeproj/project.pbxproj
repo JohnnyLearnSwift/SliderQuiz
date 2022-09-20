@@ -11,6 +11,8 @@
 		E9AF4BF128D8921400C23E4A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9AF4BF028D8921400C23E4A /* ContentView.swift */; };
 		E9AF4BF328D8921500C23E4A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E9AF4BF228D8921500C23E4A /* Assets.xcassets */; };
 		E9AF4BF628D8921500C23E4A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E9AF4BF528D8921500C23E4A /* Preview Assets.xcassets */; };
+		E9AF4BFD28D8B8AD00C23E4A /* SliderUikit.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9AF4BFC28D8B8AD00C23E4A /* SliderUikit.swift */; };
+		E9AF4BFF28D9FC4B00C23E4A /* ButtonCheck.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9AF4BFE28D9FC4B00C23E4A /* ButtonCheck.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		E9AF4BF028D8921400C23E4A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E9AF4BF228D8921500C23E4A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E9AF4BF528D8921500C23E4A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E9AF4BFC28D8B8AD00C23E4A /* SliderUikit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderUikit.swift; sourceTree = "<group>"; };
+		E9AF4BFE28D9FC4B00C23E4A /* ButtonCheck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonCheck.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				E9AF4BF028D8921400C23E4A /* ContentView.swift */,
 				E9AF4BF228D8921500C23E4A /* Assets.xcassets */,
 				E9AF4BF428D8921500C23E4A /* Preview Content */,
+				E9AF4BFC28D8B8AD00C23E4A /* SliderUikit.swift */,
+				E9AF4BFE28D9FC4B00C23E4A /* ButtonCheck.swift */,
 			);
 			path = SliderQuiz;
 			sourceTree = "<group>";
@@ -137,7 +143,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E9AF4BFD28D8B8AD00C23E4A /* SliderUikit.swift in Sources */,
 				E9AF4BF128D8921400C23E4A /* ContentView.swift in Sources */,
+				E9AF4BFF28D9FC4B00C23E4A /* ButtonCheck.swift in Sources */,
 				E9AF4BEF28D8921400C23E4A /* SliderQuizApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
